@@ -1,0 +1,2 @@
+# pacman
+sh pacman.sh
